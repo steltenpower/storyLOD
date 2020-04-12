@@ -12,3 +12,7 @@ Change your fabmoment editor to make it very easy to use that standard notation 
 Have your linked data capable search engine spider all your fabmoments. The GUI interface of that search engine can next to entry of keywords also use the same visual buttons mentioned earlier. But now for the magic thing; by offering a so-called SPARQL endpoint you can even filter on properties you’ve never entered!!; say in a fabmoment you’ve not entered just Copper, but https://en.wikipedia.org/wiki/Copper in a user-friendly way, thereby allowing to use material properties defined there. You can now search for fabmoments where a material was used with a melting point above 1000 Celsius and get that fabmoment with copper returned.
 
 And then connect all fablabs in the world (each with their own mix of languages) through this system …
+
+To relate it to SDGs: https://aurora-network.global/project/sdg-analysis-bibliometrics-relevance/
+
+Or to COVID-19 or whatever societal very relevant, also see wikidata
