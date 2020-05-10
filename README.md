@@ -15,4 +15,4 @@ And then connect all fablabs in the world (each with their own mix of languages)
 
 To relate it to SDGs: https://aurora-network.global/project/sdg-analysis-bibliometrics-relevance/
 
-Or to COVID-19 [which was mentioned a good idea](https://twitter.com/kidehen/status/1246177802862374913) or whatever societal very relevant, also see wikidata
+Or to COVID-19 [which was mentioned a good idea](https://twitter.com/kidehen/status/1246177802862374913) or whatever societal very relevant, also see wikidata and how it works: https://github.com/egonw/fvtworkshop/blob/master/README.md
