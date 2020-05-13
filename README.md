@@ -18,3 +18,5 @@ Or to COVID-19 [which was mentioned a good idea](https://twitter.com/kidehen/sta
 
 Maybe a nice combination with: [Deep Spreadsheets](https://gitlab.com/muishkin/mwnci---deep-spreadsheets/) and
 [TrainOfThought](https://github.com/steltenpower/Train-Of-Thought)
+
+Do it in a ((R)markdown) notebook context?
