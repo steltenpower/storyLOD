@@ -1,18 +1,20 @@
-# FabmomentStructuring
+# KnowledgeDock
 
-Make sure you know what a Fablab is
+What if you could just keep writing, but custom to the wider topic or context, you get help in specifying things exactly, thereby adding to a body of knowledge with reasoning power?
 
-Fablabs are great places to learn MAKING from a rich variety of people. 
-Exchanging information through so-called fabmoments (reports on how something’s made) could be better facilitated through some changes:
+One Example:
+Worldwide there are thousands of makerspaces, hackerspaces, tech shops and fablabs where a wide range of people go to MAKE things.
+Often at least partly by digital fabrication means: laser cutters, 3D-printers, etc. Sometimes writing a little report about it that others can learn from.
+These reports are however often scattered, hard to find and because of that not very useful, which is not very motivating to put in the time to make a proper one in the first place.
 
-standardize the notation of certain concepts, see http://fablab.metamatter.nl/ for ideas on what concepts (e.g. machine, material) and also notation. Try to reuse as much as possible from so-called open vocabularies (e.g. schema.org, that Google and others can read) or even better concepts that are already described properly (e.g. in DBpedia , WikiData, or something else in the LODcloud)
+Often specific form fields are used to improve the situation a bit, but more can be done:
+The editor could provide photos of local machines or popular materials as buttons to 
+'stamp out' a standardized naming. Also while writing the editor could offer "Did you mean ...?" suggestions to do the same.
+The standardized naming also has an 'invisible code' to it, which allows machines to reason about it and provide smart search: One could for example ask for all projects in which a 3D-printer was used and a material with a melting point below 200 Celsius even when the material property was never entered into such a report (the material was named in such a way that the search engine could find it on Wikipedia, wikidata or other bodies of knowledge). Many examples of these bodies and the relationships in and among them are shown in the Linked Open Data cloud. Search engines like Google look for these 'invisible codes' (RDFa) and 'understand' them when they use the schema.org vocabulary. (sidenote: for this specific example use case, years ago http://fablab.metamatter.nl/ was designed.)
 
-Change your fabmoment editor to make it very easy to use that standard notation (no spelling variants etc, plus linked data (RDFa) under the hood). This can be done through both in-text suggestions and visual buttons that will ‘stamp’ a term.
 
-Have your linked data capable search engine spider all your fabmoments. The GUI interface of that search engine can next to entry of keywords also use the same visual buttons mentioned earlier. But now for the magic thing; by offering a so-called SPARQL endpoint you can even filter on properties you’ve never entered!!; say in a fabmoment you’ve not entered just Copper, but https://en.wikipedia.org/wiki/Copper in a user-friendly way, thereby allowing to use material properties defined there. You can now search for fabmoments where a material was used with a melting point above 1000 Celsius and get that fabmoment with copper returned.
-
-And then connect all fablabs in the world (each with their own mix of languages) through this system …
-
-To relate it to SDGs: https://aurora-network.global/project/sdg-analysis-bibliometrics-relevance/
-
+To relate content to SDGs: https://aurora-network.global/project/sdg-analysis-bibliometrics-relevance/
 Or to COVID-19 [which was mentioned a good idea](https://twitter.com/kidehen/status/1246177802862374913) or whatever societal very relevant, also see wikidata and how it works: https://github.com/egonw/fvtworkshop/blob/master/README.md
+
+Maybe a nice combination with: [Deep Spreadsheets](https://gitlab.com/muishkin/mwnci---deep-spreadsheets/) and
+[TrainOfThought](https://github.com/steltenpower/Train-Of-Thought)
