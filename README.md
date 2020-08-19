@@ -20,3 +20,5 @@ Maybe a nice combination with: [Deep Spreadsheets](https://gitlab.com/muishkin/m
 [TrainOfThought](https://github.com/steltenpower/Train-Of-Thought)
 
 Do it in a ((R)markdown) notebook context?
+
+As a Word/GoogleDocs/Authorea plug-in?
