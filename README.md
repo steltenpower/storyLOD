@@ -9,7 +9,7 @@ These reports are however often scattered, hard to find and because of that not 
 
 Often specific form fields are used to improve the situation a bit, but more can be done:
 The editor could provide photos of local machines or popular materials as buttons to 
-'stamp out' a standardized naming. Also while writing the editor could offer "Did you mean ...?" suggestions to do the same.
+'stamp out' a standardized naming. Also while writing the editor could offer "Did you mean ...?" suggestions (possibly by [DBpedia Spotlight](https://www.dbpedia-spotlight.org/)) to do the same.
 The standardized naming also has an 'invisible code' to it, which allows machines to reason about it and provide smart search: One could for example ask for all projects in which a 3D-printer was used and a material with a melting point below 200 Celsius even when the material property was never entered into such a report (the material was named in such a way that the search engine could find it on Wikipedia, wikidata or other bodies of knowledge). Many examples of these bodies and the relationships in and among them are shown in the Linked Open Data cloud. Search engines like Google look for these 'invisible codes' (RDFa) and 'understand' them when they use the schema.org vocabulary. (sidenote: for this specific example use case, years ago http://fablab.metamatter.nl/ was designed.)
 
 
