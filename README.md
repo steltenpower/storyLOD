@@ -2,6 +2,8 @@
 
 What if you could just keep writing, but custom to the wider topic or context, you get help in specifying things exactly, thereby adding to a body of knowledge with reasoning power?
 
+![](https://repository-images.githubusercontent.com/69606667/ecd29377-a2b4-4aad-939c-7a1244be954f)
+
 One Example:
 Worldwide there are thousands of makerspaces, hackerspaces, tech shops and fablabs where a wide range of people go to MAKE things.
 Often at least partly by digital fabrication means: laser cutters, 3D-printers, etc. Sometimes writing a little report about it that others can learn from.
