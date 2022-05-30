@@ -24,3 +24,5 @@ Maybe a nice combination with: [Deep Spreadsheets](https://gitlab.com/muishkin/m
 Do it in a ((R)markdown) notebook context?
 
 As a Word/GoogleDocs/Authorea plug-in?
+
+Would PIDINST (Persistent IDentifier for INSTruments) have use in this?
