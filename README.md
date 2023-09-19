@@ -1,4 +1,4 @@
-# KnowledgeDock
+# storyLOD (fka KnowledgeDock)
 
 What if you could just keep writing, but custom to the wider topic or context, you get help in specifying things exactly, thereby adding to a body of knowledge with reasoning power?
 
